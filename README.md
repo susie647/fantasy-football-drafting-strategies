@@ -1,1 +1,2 @@
 # fantasy-football-drafting-strategies
+This repository provides code and data associated with this article "Drafting strategies in fantasy football: A study of competitive sequential human decision making".
